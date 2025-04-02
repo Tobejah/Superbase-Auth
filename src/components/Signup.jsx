@@ -23,7 +23,7 @@ const Signup = () => {
                 navigate("/dashboard");
             }
         }catch (err) {
-            setError("an error occurred")
+            setError("an errorrrr occurred")
         } finally {
             setLoading(false)
             }
